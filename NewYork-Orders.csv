@@ -1,0 +1,12 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+54,CA-2016-105816,11-12-2016,17-12-2016,Standard Class,JM-15265,Janet Molinari,Corporate,United States,New York City,New York,10024,East,OFF-FA-10000304,Office Supplies,Fasteners,Advantus Push Pins,15.26,7,0,6.2566
+55,CA-2016-105816,11-12-2016,17-12-2016,Standard Class,JM-15265,Janet Molinari,Corporate,United States,New York City,New York,10024,East,TEC-PH-10002447,Technology,Phones,AT&T CL83451 4-Handset Telephone,1029.95,5,0,298.6855
+56,CA-2016-111682,17-06-2016,18-06-2016,First Class,TB-21055,Ted Butterfield,Consumer,United States,Troy,New York,12180,East,OFF-ST-10000604,Office Supplies,Storage,Home/Office Personal File Carts,208.56,6,0,52.14
+57,CA-2016-111682,17-06-2016,18-06-2016,First Class,TB-21055,Ted Butterfield,Consumer,United States,Troy,New York,12180,East,OFF-PA-10001569,Office Supplies,Paper,Xerox 232,32.4,5,0,15.552
+58,CA-2016-111682,17-06-2016,18-06-2016,First Class,TB-21055,Ted Butterfield,Consumer,United States,Troy,New York,12180,East,FUR-CH-10003968,Furniture,Chairs,Novimex Turbo Task Chair,319.41,5,0.1,7.098
+59,CA-2016-111682,17-06-2016,18-06-2016,First Class,TB-21055,Ted Butterfield,Consumer,United States,Troy,New York,12180,East,OFF-PA-10000587,Office Supplies,Paper,Array Parchment Paper, Assorted Colors,14.56,2,0
+60,CA-2016-111682,17-06-2016,18-06-2016,First Class,TB-21055,Ted Butterfield,Consumer,United States,Troy,New York,12180,East,TEC-AC-10002167,Technology,Accessories,ImationÂ 8gb Micro Traveldrive Usb 2.0Â Flash Drive,30,2,0,3.3
+61,CA-2016-111682,17-06-2016,18-06-2016,First Class,TB-21055,Ted Butterfield,Consumer,United States,Troy,New York,12180,East,OFF-BI-10001460,Office Supplies,Binders,Plastic Binding Combs,48.48,4,0.2,16.362
+62,CA-2016-111682,17-06-2016,18-06-2016,First Class,TB-21055,Ted Butterfield,Consumer,United States,Troy,New York,12180,East,OFF-AR-10001868,Office Supplies,Art,Prang Dustless Chalk Sticks,1.68,1,0,0.84
+71,CA-2016-106075,18-09-2016,23-09-2016,Standard Class,HM-14980,Henry MacAllister,Consumer,United States,New York City,New York,10009,East,OFF-BI-10004654,Office Supplies,Binders,Avery Binding System Hidden Tab Executive Style Index Sets,4.616,1,0.2,1.731
+97,CA-2017-161018,09-11-2017,11-11-2017,Second Class,PN-18775,Parhena Norris,Home Office,United States,New York City,New York,10009,East,FUR-FU-10000629,Furniture,Furnishings,9-3/4 Diameter Round Wall Clock,96.53,7,0,40.5426
